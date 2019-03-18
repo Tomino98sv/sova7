@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <cars>
+        <car>
+            <brand>Skoda</brand>
+            <color>blue</color>
+            <fuel>P</fuel>
+            <spz>KE 584KS</spz>
+            <price>1500</price>
+        </car>
+        <car>
+            <brand>Skoda</brand>
+            <color>red</color>
+            <fuel>D</fuel>
+            <spz>SV 584FV</spz>
+            <price>2500</price>
+        </car>
+        <car>
+            <brand>Skoda</brand>
+            <color>red</color>
+            <fuel>D</fuel>
+            <spz>SV 544EE</spz>
+            <price>2500</price>
+        </car>
+        <car><brand>Fabia</brand><color>red</color><fuel>E</fuel><spz>KE 111II</spz><price>4000</price></car><car><brand>BMW</brand><color>white</color><fuel>D</fuel><spz>HE 512IE</spz><price>3000</price></car><car><brand>Citroen</brand><color>yellow</color><fuel>P</fuel><spz>BA 622IO</spz><price>3100</price></car><car><brand>Citroen</brand><color>green</color><fuel>E</fuel><spz>BA 720IO</spz><price>3100</price></car><car><brand>Citroen</brand><color>orange</color><fuel>D</fuel><spz>KE 720IO</spz><price>4100</price></car></cars>
